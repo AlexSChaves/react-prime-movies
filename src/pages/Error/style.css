@@ -1,0 +1,13 @@
+.error {
+  width: 100%;
+  height: calc(100vh - 80px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 14px;
+  flex-direction: column;
+}
+
+.error h1 {
+  font-size: 120px;
+}
